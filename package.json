@@ -2,7 +2,7 @@
   "name": "cursonodejs",
   "version": "1.0.0",
   "description": "cursonodejs",
-  "main": "cursos.js",
+  "main": "inscripcion.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

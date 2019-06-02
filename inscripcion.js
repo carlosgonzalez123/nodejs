@@ -19,8 +19,6 @@ const argv = require('yargs')
 const cursos = require('./cursos');
 const fs = require('fs');
 
-
-
 let crearArchivo = () =>{
        let cr=cursos.buscarCurso(argv.idCurso);
        text='El estudiante : '+argv.nombre+'\n';
