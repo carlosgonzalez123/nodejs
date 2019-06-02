@@ -27,7 +27,6 @@ let cursos = [
 			});
 		}
 	}
-	verCursos();
 	module.exports={
 		buscarCurso,
 		verCursos,

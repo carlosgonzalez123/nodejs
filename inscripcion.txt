@@ -1,0 +1,5 @@
+El estudiante : carlos
+Se ha inscrito a el curso : 2
+Nombre del curso : Matematicas Discretas
+Duracion : 50 Horas
+Costo : 30000
